@@ -9,3 +9,4 @@ app = Flask(__name__)
 # create index function
 def index():
   return  'hello world'
+  return 'Testing 1 2 3'
